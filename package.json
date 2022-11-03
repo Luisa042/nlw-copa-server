@@ -17,6 +17,9 @@
     "url": "https://github.com/Luisa042/nlw-copa-server/issues"
   },
   "homepage": "https://github.com/Luisa042/nlw-copa-server#readme",
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
   "devDependencies": {
     "@mermaid-js/mermaid-cli": "^9.1.7",
     "prisma": "^4.5.0",
